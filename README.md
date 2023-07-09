@@ -1,8 +1,8 @@
 ## Welcome to my page!!
 ### My name is Lucas Matheus
 
-- 🔭 Working and Studying...
+- 🔭 Trabalhando e estudando...
 - 🌱 Eu atualmente estou aprendendo PHP...
-- 📝 Looking for projects
+- 📝 Procurando por projetos!
 -
 -
