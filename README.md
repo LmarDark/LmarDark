@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
-    <img src="https://skillicons.dev/icons?i=php,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,py" />
   </a>
 </p>
