@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://beacons.ai/lucasmat/icons?i=php" />
+  <a href="https://beacons.ai/lucasmat">
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </p>
