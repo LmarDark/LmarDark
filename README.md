@@ -2,7 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/lucas-matheus-alves-rodrigues-509b1a240/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/LmarDark)
 
-<img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" style=""/> Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, amante em Back-End!
+<img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
+
+Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, amante em Back-End!
 
 * 🧑‍💼 Estudante e Estagiário
 * 📚 Estudando atualmente: PHP OOP, CRUD, Injeção de SQL e sempre aprendendo coisas novas todos os dias
