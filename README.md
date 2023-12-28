@@ -2,9 +2,7 @@
 
 ---
 
-👨‍💻 Lucas Matheus A R
-
-<h1></h1>
+<h1>Hi👋</h1>
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
