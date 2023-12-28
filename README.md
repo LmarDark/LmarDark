@@ -3,8 +3,6 @@
 ---
 
 👨‍💻 Lucas Matheus A R
-Linkedin Badge Twitter Badge Gmail Badge
-
 
 <h1></h1>
 
