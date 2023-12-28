@@ -1,7 +1,3 @@
-<h1>LmarDark</h1>
-
----
-
 <h1>Hi👋</h1>
 
 Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, amante em Back-End!
