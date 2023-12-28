@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
-    <img src="https://skillicons.dev/icons?i=py,cs,php,html,css,linkedin" />
+    <img src="https://skillicons.dev/icons?i=,php,py,php,html,css,linkedin" />
 
   </a>
 </p>
