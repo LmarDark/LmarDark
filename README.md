@@ -1,6 +1,6 @@
 <h1>👨‍💻 Lucas Matheus</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/lucas-matheus-alves-rodrigues-509b1a240/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/lucas-matheus-alves-rodrigues-509b1a240/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/LmarDark)
 
 <h1>Hi👋</h1>
 
