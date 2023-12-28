@@ -1,6 +1,6 @@
 <h1>👨‍💻 Lucas Matheus</h1>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 <h1>Hi👋</h1>
 
