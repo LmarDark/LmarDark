@@ -10,7 +10,8 @@ Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, a
 
 * 🧑‍💼 Estudante e Estagiário
 * 📚 Estudando atualmente: PHP OOP, CRUD, Injeção de SQL e sempre aprendendo coisas novas todos os dias
-* Habilidades em: Linux, 
+* Linguagens de Progração: PHP, Python, 
+* Habilidades: Linux, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark)](https://github.com/anuraghazra/github-readme-stats)
 
