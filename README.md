@@ -10,10 +10,10 @@ Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, a
 
 * 🧑‍💼 Estudante e Estagiário
 * 📚 Estudando atualmente: PHP OOP, CRUD, Injeção de SQL e sempre aprendendo coisas novas todos os dias
+* 
 
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ---
 
