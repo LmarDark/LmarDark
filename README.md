@@ -17,7 +17,7 @@ Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, a
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
-    <img src="https://skillicons.dev/icons?i=php,py,html,css,linkedin" />
+    <img src="https://skillicons.dev/icons?i=php,py,html,css,linkedin" align="left"/>
 
   </a>
 </p>
