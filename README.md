@@ -9,7 +9,7 @@
 Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, amante em Back-End!
 
 * 💼 Estudante e Estagiário;
-* 📚 Estudando atualmente: PHP OOP, CRUD, Injeção de SQL e sempre aprendendo coisas novas todos os dias;
+* 📚 Estudando atualmente: Symfony, PHP OOP, CRUD, injeção de SQL, e sempre aprendendo coisas novas todos os dias;
 * 💬 Linguagens de Progração: PHP, Python, Javascript;
 * 💡 Habilidades: Linux, Docker; 
 
