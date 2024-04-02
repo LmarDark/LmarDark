@@ -13,7 +13,8 @@ Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, a
 * 💬 Linguagens de Progração: PHP, Python, Javascript;
 * 💡 Habilidades: Linux, Docker; 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
