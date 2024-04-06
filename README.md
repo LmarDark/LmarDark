@@ -8,7 +8,7 @@
 
 <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
 
-Meu nome é Lucas Matheus, 20, Estudante e Estagiário na área da tecnologia, amante em Back-End!
+Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, amante em Back-End!
 
 * 💼 Estudante e Estagiário;
 * 📚 Estudando atualmente: Symfony, PHP OOP, CRUD, injeção de SQL, e sempre aprendendo coisas novas todos os dias;
