@@ -8,12 +8,11 @@
 
 <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
 
-Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, amante em Back-End!
+Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, amante em ***Desenvolvimento Back-End***!
 
 * 💼 Estudante e Estagiário;
 * 📚 Estudando atualmente: Symfony, PHP OOP, CRUD, injeção de SQL, e sempre aprendendo coisas novas todos os dias;
-* 💬 Linguagens de Progração: PHP, Python, Javascript;
-* 💡 Habilidades: Linux, Docker; 
+* 💬 Conhecimentos em: PHP, Python, Mysql, Docker e Linux;
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LmarDark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
 |  :---:  |  :----:  |
@@ -22,7 +21,7 @@ Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, a
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
-    <img src="https://skillicons.dev/icons?i=php,py,mysql,html"/>
+    <img src="https://skillicons.dev/icons?i=php,py,docker,mysql,html"/>
 
   </a>
 </p>
