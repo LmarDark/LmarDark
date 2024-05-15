@@ -12,7 +12,7 @@ Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, a
 
 * 💼 Estudante e Estagiário;
 * 📚 Estudando atualmente: Symfony, PHP OOP, CRUD, injeção de SQL, e sempre aprendendo coisas novas todos os dias;
-* 💬 Conhecimentos em: PHP, Python, Mysql, Docker e Linux;
+* 💬 Conhecimentos em: PHP, Python, MySQL, Docker e Linux;
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LmarDark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
 |  :---:  |  :----:  |
