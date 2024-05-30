@@ -12,10 +12,10 @@ Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, a
 
 * 💼 Estudante e Estagiário;
 
-# Estudo em andamento... ⌛
-<a href="https://www.instagram.com/lmar_moust/" target="_blank"><img src="https://img.shields.io/badge/-PHP-4169E1?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/lmar_moust/" target="_blank"><img src="https://img.shields.io/badge/-python-1E90FF?style=for-the-badge&logo=python&logoColor=gold" target="_blank"></a>
-<a href="https://www.instagram.com/lmar_moust/" target="_blank"><img src="https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&logoColor=DodgerBlue" target="_blank"></a>
+# Estudando e masterizando as seguintes ferramentas: ⌛
+<a><img src="https://img.shields.io/badge/-PHP-4169E1?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
+<a><img src="https://img.shields.io/badge/-python-1E90FF?style=for-the-badge&logo=python&logoColor=gold" target="_blank"></a>
+<a><img src="https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&logoColor=DodgerBlue" target="_blank"></a>
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LmarDark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
 |  :---:  |  :----:  |
