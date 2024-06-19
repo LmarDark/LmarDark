@@ -13,9 +13,6 @@ Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, a
 * 💼 Estudante da área de tecnologia;
 * 📖 Estagiário na área de técnologia.
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LmarDark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
-|  :---:  |  :----:  |
-
 ---
 
 <p align="center">
@@ -26,5 +23,10 @@ Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, a
 </p>
 
 ---
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LmarDark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LmarDark&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
+|  :---:  |  :----:  |
+
+
 
 
