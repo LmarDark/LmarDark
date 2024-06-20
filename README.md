@@ -13,6 +13,8 @@ Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, a
 * 💼 Estudante da área de tecnologia;
 * 📖 Estagiário na área de técnologia.
 
+---
+
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
     <img src="https://skillicons.dev/icons?i=php,py,docker,mysql,html"/>
