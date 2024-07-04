@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h2>🙎 Lucas Matheus | 💻 Back-End Developer | 🛸 Brazil</h2>
+<h3>🙎 Lucas Matheus | 💻 Back-End Developer | 🛸 Brazil</h3>
 </div>
 
 <div align="center">
