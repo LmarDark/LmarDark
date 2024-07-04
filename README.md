@@ -22,8 +22,8 @@
 
 <h3>I'm 21 years old Back-End developer from Brazil.</h3>
 
-*  📖 Masterizando **PHP**;
-*  
+*  🥀 Mastering **PHP**;
+*  I do backend and a bit of everything ❤️
 
 ---
 
