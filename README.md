@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- ⚡️ I don't trust people who don't indent their code properly ⚡️
+ ⚡️ <i>I don't trust people who don't indent their code properly</i> ⚡️
 </div>
  
 <hr>
