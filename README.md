@@ -16,9 +16,7 @@
  ⚡️ I don't trust people who don't indent their code properly ⚡️
 </div>
  
-
-
-<h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=30 /> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width=30 /></h1>
+<hr>
 
 <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
 
