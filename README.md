@@ -10,8 +10,7 @@
 
 Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, amante em ***Desenvolvimento Back-End***!
 
-* 💼 Estudante da área de tecnologia;
-* 📖 Estagiário na área de técnologia.
+*  📖 Estudante e 💼 Estagiário na área de tecnologia;
 
 ---
 
