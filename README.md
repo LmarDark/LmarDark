@@ -20,9 +20,10 @@
 
 <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
 
-Meu nome é Lucas Matheus, 21, Estudante e Estagiário na área da tecnologia, amante em ***Desenvolvimento Back-End***!
+<h4>I'm 21 years old **Back-End** developer from **Brazil**.</h4>
 
-*  📖 **Estudante** e 💼 **Estagiário** na área de tecnologia;
+*  📖 Masterizando **PHP**;
+*  
 
 ---
 
