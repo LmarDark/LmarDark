@@ -25,8 +25,6 @@
 *  🥀 Mastering **PHP**;
 *  I do backend and a bit of everything ❤️
 
----
-
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
     <img src="https://skillicons.dev/icons?i=php,py,docker,mysql,html"/>
