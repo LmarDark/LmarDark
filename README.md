@@ -24,6 +24,10 @@
 
 *  🥀 Mastering **PHP**;
 *  I do backend and a bit of everything ❤️
+*
+*
+
+---
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
