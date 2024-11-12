@@ -32,11 +32,9 @@
 ---
 
 <p align="center">
-  <a href="https://beacons.ai/lucasmat">
     <img src="https://skillicons.dev/icons?i=php,mysql,py"/>
     <img src="https://skillicons.dev/icons?i=vuejs,tailwind"/>
     <img src="https://skillicons.dev/icons?i=docker,vite,inertia"/>
-  </a>
 </p>
 
 ---
