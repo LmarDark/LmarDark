@@ -18,7 +18,7 @@
  
 <hr>
 
-<img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
+
 
 ```php
 <?php
