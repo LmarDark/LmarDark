@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
- <h3>Linguagens, tecnologias e ferramentas que eu uso:</h3>
+ <h3>Languages, Technologies and Tools I use:</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py"/>
   </p>
