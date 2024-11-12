@@ -32,8 +32,13 @@
 ---
 
 <p align="center">
- <h3>Languages, Technologies and Tools I use:</h3>
+ <h3>My Skills</h3>
   <p>
+    <b>Environment</b>
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
+  </p>
+  <p>
+    Languages
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py&theme=dark"/>
   </p>
   <p>
