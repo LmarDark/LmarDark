@@ -36,7 +36,7 @@
  
   <b>Environment</b>
    <p>
-    <img src="https://skillicons.dev/icons?i=linux,vi&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=linux,vim&theme=dark"/>
    </p>
  
    <b>Languages</b>
