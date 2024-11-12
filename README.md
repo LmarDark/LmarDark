@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3>🙎 Lucas Matheus | 💻 Back-End Developer | 🛸 Brazil</h3>
+<h3>🙎 Lucas Matheus | 💻 Back-end developer | 🛸 Brazil</h3>
 </div>
 
 <div align="center">
@@ -21,12 +21,6 @@
 <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
 
 <h3>I'm 21 years old Back-End developer from Brazil.</h3>
-
-*  🥀 Every day mastering **PHP** and **Laravel Framework**;
-*  🥀 Currently learning about **Linux** and **Docker**;
-* 
-* 
-* I do **backend** and a bit of **everything** ❤️
 
 ---
 
