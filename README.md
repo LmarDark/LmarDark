@@ -34,13 +34,13 @@
 <p align="center">
  <h3>Languages, Technologies and Tools I use:</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py"/>
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py&theme=dark"/>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,linux"/>
+    <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,linux&theme=dark"/>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,vite,inertia"/>
+    <img src="https://skillicons.dev/icons?i=docker,vite,inertia&theme=dark"/>
   </p>
 </p>
 
