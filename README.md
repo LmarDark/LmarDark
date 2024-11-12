@@ -18,31 +18,30 @@
  
 <hr>
 
-
-
 ```php
 <?php
-$class = new LmarDark;
-$class->create();
+    $class = new LmarDark;
+    $class->create();
 
-$person = $class->create();
-echo 'Name:' . $person->name . '</br>'; 
-echo 'Age:' . $person->age . '</br>';
+    $person = $class->create();
+    echo 'Name:' . $person->name . '</br>'; 
+    echo 'Age:' . $person->age . '</br>';
 
-class LmarDark {
-    public string $name;
-    public int $age;
-    public array $langs;
+    class LmarDark {
+        public string $name;
+        public int $age;
+        public array $langs;
 
-    public function create() {
-        $person = new stdClass();
-        
-        $person->name = 'Lucas Matheus';
-        $person->age = 21;
-        
-        return $person;
+        public function create() {
+            $person = new stdClass();
+            
+            $person->name = 'Lucas Matheus';
+            $person->age = 21;
+            
+            return $person;
+        }
     }
-}
+?>
 ```
 
 
