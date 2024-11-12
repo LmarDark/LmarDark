@@ -32,9 +32,15 @@
 ---
 
 <p align="center">
+  <p>
     <img src="https://skillicons.dev/icons?i=php,mysql,py"/>
+  </p>
+  <p>
     <img src="https://skillicons.dev/icons?i=vuejs,tailwind"/>
+  </p>
+  <p>
     <img src="https://skillicons.dev/icons?i=docker,vite,inertia"/>
+  </p>
 </p>
 
 ---
