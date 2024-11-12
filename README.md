@@ -33,20 +33,24 @@
 
 <p align="center">
  <h3>My Skills</h3>
+ 
   <b>Environment</b>
    <p>
     <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
    </p>
+ 
+   <b>Languages</b>
   <p>
-    <b>Languages</b>
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py&theme=dark"/>
   </p>
-  <p>
+  
    <b>Technologies</b>
+   <p>
     <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,linux&theme=dark"/>
   </p>
-  <p>
+  
    <b>Tools</b>
+   <p>
     <img src="https://skillicons.dev/icons?i=docker,vite,inertia&theme=dark"/>
   </p>
 </p>
