@@ -33,7 +33,7 @@
 
 <p align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=php,mysql,py"/>
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py"/>
   </p>
   <p>
     <img src="https://skillicons.dev/icons?i=vuejs,tailwind"/>
