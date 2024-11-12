@@ -36,6 +36,7 @@
   <p>
     <b>Environment</b>
     </br>
+    </br>
     <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
   </p>
   <p>
