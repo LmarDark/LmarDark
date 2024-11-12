@@ -34,9 +34,7 @@
 <p align="center">
  <h3>My Skills</h3>
   <p>
-   <p>
-    <b>Environment</b>
-    </p>
+    <b style="line-height:0.7">Environment</b>
     <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
   </p>
   <p>
