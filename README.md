@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://beacons.ai/lucasmat">
-    <img src="https://skillicons.dev/icons?i=php,linux,docker,mysql,html,py,vuejs,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=php,linux,docker,mysql,html,py,vuejs,tailwind&perline=3"/>
 
   </a>
 </p>
