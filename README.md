@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py"/>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=vuejs,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,linux"/>
   </p>
   <p>
     <img src="https://skillicons.dev/icons?i=docker,vite,inertia"/>
