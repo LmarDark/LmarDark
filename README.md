@@ -20,13 +20,30 @@
 
 <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" alt="drawing" width="200" align="right"/> 
 
-<h3>I'm 21 years old back-end developer from Brazil.</h3>
+```php
+<?php
+$class = new LmarDark;
+$class->create();
 
-*  🥀 Every day mastering **PHP** and **Laravel Framework**;
-*  🥀 Currently learning about **Linux** and **Docker**;
-* 
-* 
-* I do **backend** and a bit of **everything** ❤️
+$person = $class->create();
+echo 'Name:' . $person->name . '</br>'; 
+echo 'Age:' . $person->age . '</br>';
+
+class LmarDark {
+    public string $name;
+    public int $age;
+    public array $langs;
+
+    public function create() {
+        $person = new stdClass();
+        
+        $person->name = 'Lucas Matheus';
+        $person->age = 21;
+        
+        return $person;
+    }
+}
+```
 
 
 ---
