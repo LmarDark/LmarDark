@@ -21,7 +21,6 @@
 ```php
 <?php
     $class = new LmarDark;
-    $class->create();
 
     $person = $class->create();
     echo 'Name:' . $person->name . '</br>'; 
