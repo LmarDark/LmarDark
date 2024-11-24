@@ -29,7 +29,6 @@
     class LmarDark {
         public string $name;
         public int $age;
-        #public array $langs;
 
         public function create() {
             $person = new stdClass();
