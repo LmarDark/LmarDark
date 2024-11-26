@@ -50,7 +50,7 @@
  
   <b>Environment</b>
    <p>
-    <img src="https://skillicons.dev/icons?i=linux,vim&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=linux,vim,vscode&theme=dark"/>
    </p>
  
    <b>Languages</b>
