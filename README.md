@@ -42,10 +42,9 @@
 ?>
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmardark&layout=compact)
-
 ---
-
+<div style="flex">
+ <div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmardark&layout=pie)](https://github.com/anuraghazra/github-readme-stats) </div>
 <p align="center">
  <h3>My Skills</h3>
  
@@ -69,6 +68,7 @@
     <img src="https://skillicons.dev/icons?i=docker,vite,inertia&theme=dark"/>
   </p>
 </p>
+</div>
 
 ---
 
