@@ -58,7 +58,7 @@
   
    <b>Technologies</b>
    <p>
-    <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,linux&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind&theme=dark"/>
   </p>
   
    <b>Tools</b>
