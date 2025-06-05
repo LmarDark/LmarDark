@@ -53,7 +53,7 @@
  
    <b>Languages</b>
   <p>
-    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,py&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=php,mysql,postgres,html,css,py&theme=dark"/>
   </p>
   
    <b>Technologies</b>
