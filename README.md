@@ -67,10 +67,10 @@
   </p>
 </p>
 
----
-<p align="center">
+
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmardark&layout=donut&locale=pt-br&theme=dark&hide_border=true&border_radius=20">
-</p>
+</p>-->
 
 
 
