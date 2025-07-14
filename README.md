@@ -50,16 +50,16 @@
             $person->name = 'Lucas Matheus';
             $person->age = 22;
             $person->langs = [
-                                "PHP",
-                                "MySQL",
-                                "PostgreSQL",
-                                "HTML",
-                                "CSS",
-                                "Python",
-                                "Go",
-                                "Shell Script",
-                                "Vue"
-                             ];
+                "PHP",
+                "MySQL",
+                "PostgreSQL",
+                "HTML",
+                "CSS",
+                "Python",
+                "Go",
+                "Shell Script",
+                "Vue"
+         ];
 
             return $person;
         }
