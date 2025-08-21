@@ -78,7 +78,7 @@
  
    <b>Languages</b>
   <p>
-    <img src="https://skillicons.dev/icons?i=php,mysql,bash,go,postgres,html,css,py"/>
+    <img src="https://skillicons.dev/icons?i=php,mysql,bash,go,postgres,html,js,css,py"/>
   </p>
   
    <b>Technologies</b>
