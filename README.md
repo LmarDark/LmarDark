@@ -88,7 +88,7 @@
   
    <b>Tools</b>
    <p>
-    <img src="https://skillicons.dev/icons?i=docker,vite,inertia&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=docker,vite&theme=dark"/>
   </p>
 </p>
 
