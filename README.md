@@ -70,7 +70,7 @@
 ---
 <h2>💡 Languages</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,py,go,mysql,postgres,bash,yaml,md"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,py,go,mysql,postgres,bash,md"/>
 </p>
 
 <h2>⚙️ Technologies</h2>
