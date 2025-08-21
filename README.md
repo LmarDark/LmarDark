@@ -68,24 +68,30 @@
 ```
 
 ---
-<h2>💡 Languages</h2>
+<h2>💡 Core Languages</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,py,go,mysql,postgres,bash,md"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,py,mysql,postgres,bash"/>
 </p>
 
-<h2>⚙️ Technologies</h2>
+<h2>⚙️ Main Stack</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,docker,kubernetes,redis,nginx,vite&theme=dark"/>
 </p>
 
 <h2>🛠 Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 </p>
 
 <h2>🌍 Environment</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,nginx,git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,kubernetes&theme=dark"/>
+</p>
+
+<h2>📚 Already Worked With</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,figma,postman&theme=dark"/>
+  <!-- Aqui você pode colocar badges extras de coisas sem ícone, tipo Inertia, GeoServer, ApexCharts, Pterodactyl -->
 </p>
 
 ---
