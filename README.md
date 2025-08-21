@@ -80,12 +80,12 @@
 
 <h2>🛠 Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 </p>
 
 <h2>🌍 Environment</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,kubernetes,nginx,git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,nginx,git&theme=dark"/>
 </p>
 
 <h2>📊 GitHub Stats</h2>
