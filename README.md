@@ -73,11 +73,6 @@
   <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,py,mysql,postgres,bash"/>
 </p>
 
-<h2>⚙️ Main Stack</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,docker,kubernetes,redis,nginx,vite&theme=dark"/>
-</p>
-
 <h2>🛠 Tools</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
@@ -85,7 +80,7 @@
 
 <h2>🌍 Environment</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,kubernetes&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker&theme=dark"/>
 </p>
 
 <h2>📚 Already Worked With</h2>
