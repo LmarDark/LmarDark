@@ -88,12 +88,6 @@
   <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,nginx,git&theme=dark"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lmardark&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmardark&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
-
 ---
 
 <!--<p align="center">
