@@ -68,28 +68,30 @@
 ```
 
 ---
-<p align="center">
- <h3>My Skills</h3>
- 
-  <b>Environment</b>
-   <p>
-    <img src="https://skillicons.dev/icons?i=linux,vim,vscode&theme=dark"/>
-   </p>
- 
-   <b>Languages</b>
-  <p>
-    <img src="https://skillicons.dev/icons?i=php,mysql,bash,go,postgres,html,js,css,py"/>
-  </p>
-  
-   <b>Technologies</b>
-   <p>
-    <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind&theme=dark"/>
-  </p>
-  
-   <b>Tools</b>
-   <p>
-    <img src="https://skillicons.dev/icons?i=docker,vite&theme=dark"/>
-  </p>
+<h2>💡 Languages</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,py,go,mysql,postgres,bash,yaml,md"/>
+</p>
+
+<h2>⚙️ Technologies</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vuejs,tailwind,docker,kubernetes,redis,nginx,vite&theme=dark"/>
+</p>
+
+<h2>🛠 Tools</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+</p>
+
+<h2>🌍 Environment</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,vim,vscode,docker,kubernetes,nginx,git&theme=dark"/>
+</p>
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lmardark&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmardark&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 
 ---
