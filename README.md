@@ -62,7 +62,7 @@
          return;
      }
  
-     echo "$language, ";
+     echo "Languages: " . implode(", ", $person->langs);
  }
 ```
 
