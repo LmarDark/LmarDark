@@ -19,7 +19,7 @@
 <hr>
 
 ```php
-?php
+<?php
     $class = new LmarDark;
 
     $person = $class->create();
