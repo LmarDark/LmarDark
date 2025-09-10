@@ -55,7 +55,7 @@ echo "Languages: " . implode(", ", $person->langs);
 
 ---
 
-```
+```bash
 # Output:
 Name: Lucas Matheus
 Age: 22
