@@ -20,51 +20,50 @@
 
 ```php
 <?php
-    $class = new LmarDark;
-
-    $person = $class->create();
-    echo "Name: "."$person->name";
-    echo "\nAge: "."$person->age\n";
-    echo "Languages: ";
-
-    $count = 0;
-    foreach($person->langs as $language) {
-        $count++;
-
-
-        if(count($person->langs) == $count) {
-            echo $language;
-            return;
-        }
-
-        echo "$language, ";
-    }
-
-    class LmarDark {
-        public string $name;
-        public int $age;
-
-        public function create() {
-            $person = new stdClass();
-
-            $person->name = 'Lucas Matheus';
-            $person->age = 22;
-            $person->langs = [
-                "PHP",
-                "MySQL",
-                "PostgreSQL",
-                "HTML",
-                "CSS",
-                "Python",
-                "Go",
-                "Shell Script",
-                "Vue"
+ class LmarDark {
+     public string $name;
+     public int $age;
+ 
+     public function create() {
+         $person = new stdClass();
+ 
+         $person->name = 'Lucas Matheus';
+         $person->age = 22;
+         $person->langs = [
+             "PHP",
+             "MySQL",
+             "PostgreSQL",
+             "HTML",
+             "CSS",
+             "Python",
+             "Go",
+             "Shell Script",
+             "Vue"
          ];
-
-            return $person;
-        }
-    }
-
+ 
+         return $person;
+     }
+ }
+ 
+ $class = new LmarDark;
+ 
+ $person = $class->create();
+ 
+ echo "Name: $person->name\n";
+ echo "Age: $person->age\n";
+ echo "Languages: ";
+ 
+ $count = 0;
+ foreach($person->langs as $language) {
+     $count++;
+ 
+     if(count($person->langs) == $count) {
+         echo $language;
+         return;
+     }
+ 
+     echo "$language, ";
+ }
 ```
 
 ---
