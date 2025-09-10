@@ -53,6 +53,13 @@ echo "Age: $person->age\n";
 echo "Languages: " . implode(", ", $person->langs);
 ```
 
+Output:
+´´´
+Name: Lucas Matheus
+Age: 22
+Languages: PHP, MySQL, PostgreSQL, HTML, CSS, Python, Go, Shell Script, Vue
+´´´
+
 ---
 
 ## 💡 Stack
