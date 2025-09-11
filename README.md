@@ -20,6 +20,7 @@
 
 ```php
 <?php
+
 class LmarDark {
     public string $name;
     public int $age;
