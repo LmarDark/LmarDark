@@ -32,14 +32,6 @@ class LmarDark {
         $person->age = 22;
         $person->langs = [
             "PHP",
-            "MySQL",
-            "PostgreSQL",
-            "HTML",
-            "CSS",
-            "Python",
-            "Go",
-            "Shell Script",
-            "Vue"
         ];
 
         return $person;
@@ -60,14 +52,14 @@ echo "Languages: " . implode(", ", $person->langs);
 # Output:
 Name: Lucas Matheus
 Age: 22
-Languages: PHP, MySQL, PostgreSQL, HTML, CSS, Python, Go, Shell Script, Vue
+Languages: PHP
 ```
 
 ---
 
 ## 💡 Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vuejs,tailwind,postgres,redis,docker,kubernetes,nginx,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,postgres,redis,docker,kubernetes,nginx,linux&theme=dark"/>
 </p>
 
 ---
